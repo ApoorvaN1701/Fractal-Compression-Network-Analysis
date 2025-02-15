@@ -84,7 +84,7 @@ python fractalimagecompression.py
 ---
 
 ## Project Report
-A detailed analysis of this project, including the methodology and results, is available in **FinalReport_CSN.docx**.
+A detailed analysis of this project, including the methodology and results, is available in **Fractal_Image_Compression.docx**.
 
 ---
 
